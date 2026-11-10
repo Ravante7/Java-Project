@@ -1,0 +1,15 @@
+4451;Mohamed Ali;student1@ams.com
+4995;Sara Hassan;student2@ams.com
+5169;Omar Khaled;student3@ams.com
+2778;Mona Adel;student4@ams.com
+1472;Youssef Samir;student5@ams.com
+9242;Ali Hassan;ali1793616059524@ams.com
+8801;Ali Hassan;ali1793616208308@ams.com
+5313;Ali Hassan;ali1793616553623@ams.com
+2941;Ali Hassan;ali1793616579773@ams.com
+9982;Ali Hassan;ali1793616817953@ams.com
+7464;Ali Hassan;ali1793616958516@ams.com
+1972;Ali Hassan;ali1793617287385@ams.com
+8470;Ali Hassan;ali1793617653284@ams.com
+5989;Ali Hassan;ali1793622295777@ams.com
+2546;Ali Hassan;ali1793622381918@ams.com
